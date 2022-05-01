@@ -1,4 +1,4 @@
-# TechTalks
+# Tech Talks
 
 
 [25/1/2021](https://github.com/ntedgi/Demand-TechTalks/tree/main/Github%20Actions) - Github Action Intro

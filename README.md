@@ -1,4 +1,4 @@
-# Demand-TechTalks
+# TechTalks
 
 
 [16/3/2021](https://github.com/ntedgi/Demand-TechTalks/tree/main/Node%2014%20new%20features) - Node 14 new features 

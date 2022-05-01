@@ -1,0 +1,14 @@
+{
+  "name": "cool-kids-syntex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "demo1": "node demo1.js",
+    "demo2": "node demo2.js",
+    "demo3": "node demo3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

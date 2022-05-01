@@ -1,5 +1,6 @@
 # Tech Talks
 
+collection of latest tech talks and infra meeting 
 
 [25/1/2021](https://github.com/ntedgi/Demand-TechTalks/tree/main/Github%20Actions) - Github Action Intro
 

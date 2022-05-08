@@ -12,9 +12,15 @@ class CharStream extends Readable {
 }
 
 class Uppercasify extends Transform {
+    constructor(options = {}) {
+        super(options)
+        this.counter = 0
+    }
+
     _transform(chunk, encoding, done) {
-        this.push(chunk.toString().toUpperCase())
-        done()
+        console.log(this.counter++)
+        // this.push(chunk.toString().toUpperCase())
+        done(null, chunk.toString().toUpperCase())
     }
 }
 

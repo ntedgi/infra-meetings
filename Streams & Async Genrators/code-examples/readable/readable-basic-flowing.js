@@ -1,6 +1,13 @@
+import { join, dirname } from 'path'
 import { createReadStream } from 'fs'
-const filePath = './users.csv'
-const file = createReadStream(filePath, { encoding: 'utf8' })
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const filePath = join(__dirname, 'users.csv')
+
+
+const file = createReadStream(filePath, { encoding: 'utf8', highWaterMark: 100 })
 let counter = 0
 
 file.on('data', chunk => {
@@ -8,5 +15,5 @@ file.on('data', chunk => {
     counter++
 })
 
-file.on('end', () => console.log(`Finish reading all file ${filePath} total chunks ${counter}`))
+file.on('end', () => console.log(`\n \n Finish reading all file ${filePath} total chunks ${counter}`))
 file.on('error', err => console.error(`Error reading file: ${err}`))

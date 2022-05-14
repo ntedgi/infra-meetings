@@ -11,3 +11,6 @@ collection of latest tech talks and infra meeting
 [6/12/2021](https://github.com/ntedgi/Demand-TechTalks/tree/main/Async%20Controller%20and%20Slow%20Require) - Async Controller and Slow Require
 
 
+[8/5/2022](https://github.com/ntedgi/Demand-TechTalks/tree/main/Streams%20%26%20Async%20Genrators) - Streams & Async Genrators
+
+

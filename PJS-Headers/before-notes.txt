@@ -1,0 +1,12 @@
+new github Action:
+
+black_duck - scanner
+
+sem_grep
+https://github.com/ironsource-mobile/platform-js/pull/917/commits/920821092a23e02d455d5c393975ebe5db6bb6e9
+https://github.com/ironsource-mobile/platform-js/runs/8184830100?check_suite_focus=true
+
+Call For Open Source
+
+https://hacktoberfest.com/
+https://github.com/ntedgi/node-efficientnet/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest

@@ -9,7 +9,11 @@ function verySlowFunction(obj) {
             resolve(obj.id)
         }, 3000)
     })
+
 }
+verySlowFunction = mapMemoizer(verySlowFunction)
+
+const {verySlowFunction} = require("./util")
 
 function mapMemoizer(fn) {
     const cache = new Map()

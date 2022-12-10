@@ -17,3 +17,4 @@ collection of latest tech talks and infra meeting
 
 [18/9/2022](https://github.com/ntedgi/Demand-TechTalks/tree/main/from%20Node14%20to%2018_4) - HTTP-Headers
 
+[11/12/2022](https://github.com/ntedgi/Demand-TechTalks/tree/main/GC%26memLeaks) - PJS-MemoryLeak && GC

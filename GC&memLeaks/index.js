@@ -14,11 +14,16 @@ app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
 
+
+function Point(props) {
+    this.y = props.y
+    this.x = props.x
+}
 setInterval(() => {
     let items = randInt(10);
     while (items > 0) {
-        memLeak.push(items)
-        items-=1;
+        memLeak.push(new Point({ x: randInt(5), y: randInt(5) }))
+        items -= 1;
     }
     console.log("leaking....💦💧💧💦💧💦")
 }, 1000)

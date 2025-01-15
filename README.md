@@ -24,6 +24,6 @@ collection of latest tech talks and infra meeting
 
 [05/05/2024](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights) - Case Study: Node JS On Kubernetes Transition From Spot.io
 
-[08/08/2024](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights) - Write Forwarding Benchmarking Insights
+[08/08/2024](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights) - MySQL Aurora -  Write Forwarding Benchmarking Insights
 
 

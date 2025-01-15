@@ -22,4 +22,8 @@ collection of latest tech talks and infra meeting
 
 [08/01/2023](https://github.com/ntedgi/Demand-TechTalks/tree/main/node-modules) - Dive into `node_modules`
 
+[05/05/2024](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights) - Case Study: Node JS On Kubernetes Transition From Spot.io
+
 [08/08/2024](https://github.com/ntedgi/Demand-TechTalks/tree/main//Write%20Forwarding%20Benchmarking%20Insights) - Write Forwarding Benchmarking Insights
+
+
